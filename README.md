@@ -1,4 +1,4 @@
-# Random Question and Name Selector
+# Random Question and Name Generator
 
 Randomly draws a name and a question, so the chosen person answers
 it in class.
