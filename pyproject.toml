@@ -4,7 +4,11 @@ version = "0.0.2"
 description = "This CLI draws a name and question repeatedly until the user choose to stop"
 readme = "README.md"
 authors = [
-    { name = "Yun Zhou", email = "yun.zhou@mcmaster.ca" }
+    { name = "Monu Chaurasiya", email = "chaurasm@mcmaster.ca" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.64.0",
 ]
 requires-python = ">=3.13"
 dependencies = [
