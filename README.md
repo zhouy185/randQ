@@ -6,3 +6,6 @@ it in class.
 Built as a teaching example: same core logic (`selector.py`) driven
 by two front ends — a CLI and a Streamlit app — used to demonstrate
 `CLAUDE.md` and Agent Skills in Claude Code.
+
+# My Streamlit App
+https://randquestionv1-rd89gdm5pzqmrpem7kb72p.streamlit.app/
