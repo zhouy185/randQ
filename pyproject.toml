@@ -1,6 +1,6 @@
 [project]
 name = "randq"
-version = "0.0.2"
+version = "0.0.3"
 description = "This CLI draws a name and question repeatedly until the user choose to stop"
 readme = "README.md"
 authors = [
